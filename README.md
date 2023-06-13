@@ -1,2 +1,2 @@
 # TypeScript-Learning
-Learning from Hitesh Chowdhury's tutorial from freeCodeCamp youtube channel
+Learning from freeCodeCamp youtube channel and Mosh Hamedani.
